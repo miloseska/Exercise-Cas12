@@ -13,18 +13,20 @@ body{
 }
 .first-header{
     color:  rgb(0, 102, 255);
+    font-size: 70px;
 }
+
 button{
     background-color: rgb(0, 102, 255);
     color: white;
     border-radius: 3px;
     border: 0px;
-    height: 30px;
+    height: 40px;
 }
 
 .input{
     width: 700px;
-    height: 30px;
+    height: 40px;
 }
 .resetbtn{
     background-color: grey;  
@@ -33,3 +35,11 @@ button{
     padding-top: 30px;
     padding-left: 300px;
 }
+.card {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px; 
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
